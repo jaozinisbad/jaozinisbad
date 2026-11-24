@@ -2,8 +2,6 @@
 
 # Olá, eu sou João Paulo 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas
-
 Construindo minha trajetória na tecnologia com foco em **Inteligência Artificial** e **AgTech**.
 
 </div>
@@ -12,11 +10,9 @@ Construindo minha trajetória na tecnologia com foco em **Inteligência Artifici
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Paranaense — UNIPAR**, atualmente no **4º período**.
 
 Entrei para o mundo da tecnologia há cerca de dois anos e sigo em constante aprendizado, explorando novas ferramentas, desenvolvendo minha base técnica e transformando conhecimento em prática.
 
-- 🎓 Cursando ADS na UNIPAR
 - 📚 Em constante aprendizado e desenvolvimento
 - 🤖 Interesse especial por Inteligência Artificial
 - 🌱 Objetivo profissional: atuar com **AgTech**
